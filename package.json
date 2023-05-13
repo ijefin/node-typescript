@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/ijefin/node-typescript#readme",
   "dependencies": {
+    "module-alias": "^2.2.2",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
+    "@types/module-alias": "^2.0.1",
     "@types/node": "^20.2.3",
     "@types/typescript": "^2.0.0",
     "typescript": "^5.0.4"
